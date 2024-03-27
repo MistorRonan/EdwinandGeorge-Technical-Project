@@ -1,0 +1,4 @@
+interacted = false;
+interactable = false;
+
+

@@ -1,0 +1,1 @@
+image_blend = #3b7d4f
